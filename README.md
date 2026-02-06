@@ -4,9 +4,10 @@
 
 This marks the official launch of FΛVI AIR, an autonomous aerial platform designed for GPS-denied indoor environments. This release establishes the core architecture for Physical AI-driven flight and real-time industrial telemetry.
 
+# FΛVI AIR is a silent, secure, and self-flying indoor agent that provides real-time eyes on your most critical infrastructure, even in areas where GPS and humans can't easily go.
 
 <img width="1920" height="1080" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/4f482a54-666d-43b9-ba62-1579756e411d" />
-# FΛVI AIR is a silent, secure, and self-flying indoor agent that provides real-time eyes on your most critical infrastructure, even in areas where GPS and humans can't easily go.
+
 <img width="1920" height="1080" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/613cf7f8-7de2-45c6-a80a-947e00fc9b81" />
 
 ---
