@@ -1,4 +1,4 @@
-# FΛVI AIR v1.0.0 — Initial Release
+# FΛVI AIR v1.0.0 — Initial Release (Featuring FΛVI AIR for GPS-denied autonomy)
 FΛVI AIR is the primary aerial node of the FΛVI network, bridging the gap between digital intelligence and physical autonomy.
 
 This marks the official launch of FΛVI AIR, an autonomous aerial platform designed for GPS-denied indoor environments. This release establishes the core architecture for Physical AI-driven flight and real-time industrial telemetry.
@@ -22,7 +22,8 @@ Communication: Secure WebSocket bridge between the on-board Physical AI and the 
 Safety: Hard-coded "Kill-Switch" protocols and local-first data encryption for industrial security.
 
 ## Installation
-To access the live deployment, visit the application link below: Launch FΛVI AIR Dashboard
+To access the live deployment, visit the application link below: 
+Launch FΛVI AIR Dashboard : https://2b53801f-ca1b-4f85-98c0-0ae46c570eef-00-2vfj6k128lygq.picard.replit.dev/
 
 CLI Setup (Local Environment)
 To set up the FΛVI AIR environment on your local machine, follow these steps:
@@ -47,6 +48,7 @@ Launch the Node
 
 Bash
 ros2 launch favi_air physical_ai_launch.py
-Developed by: [Your Name/Organization]
 
-Vision: Engineered Intelligence.
+Developed by: FΛVI 
+
+
