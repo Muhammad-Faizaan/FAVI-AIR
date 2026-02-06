@@ -30,4 +30,4 @@ If you identify a security risk within the FΛVI ecosystem:
 3. **Bounty Program:** Significant findings that improve FΛVI ecosystem integrity are eligible for recognition in our "Engineered Intelligence" Hall of Fame.
 
 ---
-© 2026 **FΛVI** • Engineered Intelligence • [favirobotics.ai](https://favirobotics.ai)
+© 2026 **FΛVI** • Engineered Intelligence • [favirobotics.ai](https://favi.ai)
