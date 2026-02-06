@@ -30,6 +30,10 @@ This marks the official launch of FΛVI AIR, an autonomous aerial platform desig
 ---
 
 
+https://github.com/user-attachments/assets/fc8d86be-0c6f-4a20-85fb-4ad5cbee98da
+
+
+
 ## ## **Installation**
 
 To access the live deployment, visit the application link below:
