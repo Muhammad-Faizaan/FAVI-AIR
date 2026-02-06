@@ -1,4 +1,4 @@
-# FΛVI AIR v1.0.0 — Initial Release (FΛVI AIR for GPS-denied autonomy)
+# FΛVI AIR v1.0.0 — Release (FΛVI AIR for GPS-denied autonomy)
 
 **FΛVI AIR is the primary aerial node of the FΛVI network, bridging the gap between digital intelligence and physical autonomy.**
 
@@ -137,4 +137,4 @@ rosdep install -i --from-path src --rosdistro jazzy -y
 
 ---
 
-**Developed by:** 
+**Developed by:** FΛVI
